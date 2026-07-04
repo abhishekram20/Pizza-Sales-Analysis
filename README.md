@@ -71,12 +71,15 @@ This project addresses this challenge by analyzing sales data using SQL and pres
 
 The Power BI dashboard provides an interactive view of the restaurant's sales performance through key business metrics, trend analysis, and product performance.
 
-### Available Dashboard Pages
+### 🏠 Home Dashboard
 
-- 📌 Home Dashboard
-- 📌 Best & Worst Sellers Dashboard
+![Home Dashboard](05_Dashboard_Screenshots/01_Complete_Dashboard_Home.png)
 
-> ⚠️ **TODO:** Replace this placeholder with the Home Dashboard and Best & Worst Sellers dashboard screenshots after uploading the project to GitHub.
+---
+
+### 🏆 Best & Worst Sellers Dashboard
+
+![Best & Worst Sellers Dashboard](05_Dashboard_Screenshots/02_Complete_Dashboard_BestWorst.png)
 
 ## 📈 Key Performance Indicators (KPIs)
 
