@@ -186,6 +186,6 @@ This project is part of my data analytics portfolio, showcasing my practical ski
 
 📧 Email: abhishek97695@gmail.com
 
-🔗 LinkedIn: *(To be added after profile optimization.)*
+🔗 LinkedIn: *(www.linkedin.com/in/abhishek-r-ram)*
 
-💻 GitHub: *(To be added after publishing this repository.)*
+💻 GitHub: *(https://github.com/abhishekram20/Pizza-Sales-Analysis.git)*
