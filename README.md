@@ -188,4 +188,4 @@ This project is part of my data analytics portfolio, showcasing my practical ski
 
 🔗 LinkedIn: *(www.linkedin.com/in/abhishek-r-ram)*
 
-💻 GitHub: *(https://github.com/abhishekram20/Pizza-Sales-Analysis.git)*
+💻 GitHub: *(https://github.com/abhishekram20)*
